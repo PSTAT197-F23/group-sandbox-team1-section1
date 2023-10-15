@@ -2,6 +2,6 @@
 
 template repo for class activity on git and github in pstat197a
 
-group 1: ae, kw, kl, jr
+group: KW, JR, KL, AE i
 
 updated october 2023
